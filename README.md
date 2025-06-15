@@ -11,4 +11,4 @@ This project is a image sharing social media site.
 ## Depolyment
 This webpage is deployed to Github Pages.
 
-- [Deployment Link](https://github.com/AnneDeon/se_project_spots)
+- [Deployment Link](https://annedeon.github.io/se_project_spots)
